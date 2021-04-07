@@ -1,0 +1,5 @@
+70307278,Vargas Pesantes,Jhordan,Jefe de departamento,info,Habilitado
+48088966,Enriquez Castillo,Diego,Empleado,null,Habilitado
+48088967,Rocha Amaya,Astrid,Empleado,null,Habilitado
+48088968,Paredes Caman,Kevin,Empleado,null,Habilitado
+48088969,Brandan Lopez,Brian,Empleado,null,Habilitado
